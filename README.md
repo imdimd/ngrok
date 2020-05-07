@@ -1,4 +1,4 @@
-<h1> how to install termux-ngrok in your termux app</h1>
+<h1> how to install ngrok in your termux app</h1>
 
 
        open your termux app and follow the next steps
